@@ -7,6 +7,7 @@ Author URI: purin.at
 Version: 1.0.0
 Module Version: 1.2.0
 Update: 13.05.2022
+
 */
 
 $lang['Afghanistan'] = 'Afghanistan';
